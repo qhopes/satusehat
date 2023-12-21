@@ -8,7 +8,7 @@ use Qhopes\SatuSehat\JsonResponse as jsonResponse;
 use Qhopes\SatuSehat\Utilitys\HttpRequest;
 use Qhopes\SatuSehat\Utilitys\Url;
 
-class SatuSehat
+class SatuSehatCore
 {
     public static function getPatientByNik($nik)
     {
