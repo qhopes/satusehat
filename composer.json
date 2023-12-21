@@ -1,0 +1,22 @@
+{
+    "name": "qhopes/satusehat",
+    "description": "SATUSEHAT KEMKES INTEGRATION",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "heri",
+            "email": "herid@qtasnim.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Qhopes\\Satusehat\\" : "src/"
+        }
+    },
+    "require": {
+        "php": "^7.4|^8.0"
+    }
+}
